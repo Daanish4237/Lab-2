@@ -1,0 +1,34 @@
+# MyCVPage
+
+This project is a professional resume website designed to showcase personal information, education, work experience, technical skills, and a portfolio video.
+
+## Project Structure
+
+```
+MyCVPage
+├── assets
+│   ├── css
+│   │   └── style.css
+│   └── video
+│       └── portfolio.mp4
+├── MyCVPage.html
+└── README.md
+```
+
+## Files Description
+
+- **MyCVPage.html**: The main HTML document that contains sections for Name & Picture, Personal Details, Education Details, Working Experience, Technical Skills / Additional Skills, and a video related to the portfolio.
+
+- **assets/css/style.css**: This file contains the CSS styles for the website, controlling the layout, fonts, colors, and overall appearance.
+
+- **assets/video/portfolio.mp4**: A video file that showcases work or projects, which can be embedded in the MyCVPage.html.
+
+## How to Set Up
+
+1. Clone or download the repository to your local machine.
+2. Open the `MyCVPage.html` file in a web browser to view the resume website.
+3. Customize the content in `MyCVPage.html` as needed to reflect your personal information and portfolio.
+
+## License
+
+This project is open-source and available for anyone to use and modify.
